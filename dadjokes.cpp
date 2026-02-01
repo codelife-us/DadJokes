@@ -23,14 +23,14 @@
 // Dad Jokes
 //     by Code Life
 //     command line version using modern C++20
-//     version 1.0 - 1/28/2026
+//     version 1.0 - 2/01/2026
 // Description: A collection of Dad Jokes via command line.
 //
 // Command Line Options:
 //   (none)               Display a single random joke (default)
 //   -a,  --all           Display all jokes in shuffled order
 //   -t,  --together      Display setup and punchline on one line with colon separator
-//   -c,  --color         Colored output: pink for setup, orange for punchline
+//   -c,  --color         Colored output: cyan for setup, green for punchline
 //   -sn, --shownumber    Display the number of the joke  
 //   -h,  --help          Display this help message
 
