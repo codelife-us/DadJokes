@@ -34,6 +34,7 @@ g++ -std=c++20 dadjokes.cpp -o dadjokes
 - `-t, --together` - Display joke setup on one line and punchline on one line with colon separator
 - `-c, --color` - Colored output: cyan for setup, green for punchline
 - `-p, --pick xxx` - Display a saying by number following
+- `-sn, --shownumber` -Show the joke number in the output with brackets around it
 
 ### Examples
 
