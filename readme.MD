@@ -1,10 +1,10 @@
-# Dad Jokes
+# Jokes
 
-A collection of Dad Jokes - as a C++ command line application.
+Display a collection of jokes, by type, and may use external library with a parameter - as a C++ command line application.
 
 ## Description
 
-Dad Jokes is a command-line program that displays a random joke, by default, the whole list, with colors or numbers so you can display one particular favorite. 
+Jokes is a command-line program that displays a random joke, by default, the whole list, with colors or numbers so you can display one particular favorite. 
 
 ## Building
 
@@ -13,25 +13,27 @@ To compile the program, use the provided build task:
 
 For Mac
 ```bash
-clang++ -std=c++20 -stdlib=libc++ -fcolor-diagnostics -fansi-escape-codes -g dadjokes.cpp -o dadjokes
+clang++ -std=c++20 -stdlib=libc++ -fcolor-diagnostics -fansi-escape-codes -g jokes.cpp -o jokes
 ```
 For Linux
 ```bash
-g++ -std=c++20 dadjokes.cpp -o dadjokes
+g++ -std=c++20 jokes.cpp -o jokes
 ```
 
 ## Usage
 
 ```
-./dadjokes [OPTIONS]
+./jokes [OPTIONS]
 ```
 
 ### Options
 
 - `-h, --help` - Display this help message
 - *(none)* - Display one random joke
-- `-a, --all` - Display all jokes shuffled
-- `-t, --together` - Display joke setup on one line and punchline on one line with colon separator
+- `-a, --all` - Display all jokes shuffled instead of just one
+- `-t, --type` - Default is no filter (all), but if specified, it will select from that type of joke
+-                 types that can be used are all,dad,tech,pun,knockknock,math,groaner
+- `-1, --oneliner` - Display joke setup on one line and punchline on one line with colon separator
 - `-c, --color` - Colored output: cyan for setup, green for punchline
 - `-p, --pick xxx` - Display a joke that is picked by the number following
 - `-sn, --shownumber` -Show the joke number in the output with brackets around it
@@ -40,28 +42,29 @@ g++ -std=c++20 dadjokes.cpp -o dadjokes
 
 ```bash
 # Display one random joke
-./dadjokes
+./jokes
 
-# Display all jokes shuffled, and show the unique joke number
-./dadjokes -a -sn
+# Display all tech jokes shuffled, and show the unique joke number
+./jokes -a -sn -t tech
 
 # Display one random joke in colors
-./dadjokes --color
+./jokes --color
 
 # Display all jokes shuffled with colors on one line
-./dadjokes -a --color -t
+./jokes -a --color -1
 
 # Display one random joke and show its number
-./dadjokes -sn
+./jokes -sn
 
 # Get help
-./dadjokes -h
+./jokes -h
 ```
 
 ## Features
 
-- 105 Dad Jokes
+- 100+ jokes
 - Random selection or display all jokes
+- Optionally filter by type, default is dad type
 - Colored output support (cyan for setup, green for punchline)
 - Separate line formatting option for more compact format
 - Automatic shuffling of jokes
