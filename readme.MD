@@ -32,7 +32,7 @@ g++ jokes.cpp -o jokes
 - *(none)* - Display one random joke
 - `-a, --all` - Display all jokes shuffled instead of just one
 - `-t, --type` - Default is no filter (all), but if specified, it will select from that type of joke
--                 types that can be used are all,dad,tech,pun,knockknock,math,groaner
+-                 types that can be used are all,dad,tech,pun,knock-knock,math
 - `-1, --oneliner` - Display joke setup on one line and punchline on one line with colon separator
 - `-c, --color` - Colored output: cyan for setup, green for punchline
 - `-p, --pick xxx` - Display a joke that is picked by the number following
