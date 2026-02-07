@@ -37,6 +37,7 @@ g++ jokes.cpp -o jokes
 - `-c, --color` - Colored output: cyan for setup, green for punchline
 - `-p, --pick xxx` - Display a joke that is picked by the number following
 - `-sn, --shownumber` -Show the joke number in the output with brackets around it
+- `-st, --showtype` -Show the type in the output with brackets around it
 
 ### Examples
 
