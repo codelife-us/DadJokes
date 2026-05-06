@@ -553,5 +553,9 @@ const vector<Joke> jokes = {
     {"dad", "What's it called when a cow spies on you?", "A steakout."},
     {"dad", "Did you hear about the big Lego sale?", "People were lined up for blocks."},
     {"dad", "I asked the surgeon if I could administer my own anesthesia...", "He said, \"Sure knock yourself out.\""},
-    {"dad", "A woman fainted and fell onto the baggage carousel at the airport.", "But she's slowly coming around now."}
+    {"dad", "A woman fainted and fell onto the baggage carousel at the airport.", "But she's slowly coming around now."},
+    {"dad", "I grilled a chicken for two hours...", "Still wouldn't tell me why it crossed the road"},
+    {"dad", "Someone just called my phone, sneezed, and hung up...", "I'm getting sick and tired of these cold calls."},
+    {"dad", "What can you do for someone who is becoming invisible?", "Put him in the ICU."},
+    {"pun", "My wife said she'd leave me unless I stop making photography puns. I said \"Snap out of it, don't be so negative. Let's see how things develop!\"", "Her face was a picture. She was out of the house in a flash..."}
 };
