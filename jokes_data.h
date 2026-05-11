@@ -558,5 +558,15 @@ const vector<Joke> jokes = {
     {"dad", "Someone just called my phone, sneezed, and hung up...", "I'm getting sick and tired of these cold calls."},
     {"dad", "What can you do for someone who is becoming invisible?", "Put him in the ICU."},
     {"pun", "My wife said she'd leave me unless I stop making photography puns. I said \"Snap out of it, don't be so negative. Let's see how things develop!\"", "Her face was a picture. She was out of the house in a flash..."},
-    {"dad", "My wife called to tell me she saw a bear on the way to work. I asked her how she knew it was on its way to work.", "She hung up on me."}
+    {"dad", "My wife called to tell me she saw a bear on the way to work. I asked her how she knew it was on its way to work.", "She hung up on me."},
+    {"tech", "What did Yoda say when he saw himself in 4k?", "HDMI"},
+    {"dad", "When I was younger I had a job as a shop window mannequin.", "I held that position for a long time."},
+    {"dad", "What's the difference between a dad joke and an athletic rabbit?", "One's a bit funny... and the other's a fit bunny."},
+    {"dad", "I've decided to start telling jokes in sign language.", "That way, I know for sure nobody's heard them before."},
+    {"dad", "A friend told me he doesn't understand cloning.", "I said, \"That makes two of us.\""},
+    {"dad", "My friend said he didn’t understand archaeology.", "I said, \"You've got to dig a little deeper.\""},
+    {"tech", "A programmer’s wife told him, \"While you’re at the store, get a loaf of bread. If they have eggs, get a dozen.\"", "He came home with 12 loaves of bread."},
+    {"tech", "A programmer was asked, “What’s your biggest strength? He said, \"I’m very good at avoiding unnecessary duplication.\"", "Then he said, \"I’m very good at avoiding unnecessary duplication.\""},
+    {"work", "I applied for a job hanging mirrors.", "It's something I can see myself doing."},
+    {"dad", "I tried to organize a hide and seek tournament...", "But good players are hard to find."}
 };
