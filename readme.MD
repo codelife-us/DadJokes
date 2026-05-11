@@ -1,10 +1,8 @@
 # Jokes
 
-Display a collection of jokes, by type, and may use external library with a parameter - as a C++ command line application.
-
 ## Description
 
-Jokes is a command-line program that displays a random joke, by default, the whole list, with colors or numbers so you can display one particular favorite. 
+jokes.cpp is a command-line program that displays a random joke, by default, the whole list, with colors or numbers so you can display one particular favorite. 
 
 ## Building
 
