@@ -557,5 +557,6 @@ const vector<Joke> jokes = {
     {"dad", "I grilled a chicken for two hours...", "Still wouldn't tell me why it crossed the road"},
     {"dad", "Someone just called my phone, sneezed, and hung up...", "I'm getting sick and tired of these cold calls."},
     {"dad", "What can you do for someone who is becoming invisible?", "Put him in the ICU."},
-    {"pun", "My wife said she'd leave me unless I stop making photography puns. I said \"Snap out of it, don't be so negative. Let's see how things develop!\"", "Her face was a picture. She was out of the house in a flash..."}
+    {"pun", "My wife said she'd leave me unless I stop making photography puns. I said \"Snap out of it, don't be so negative. Let's see how things develop!\"", "Her face was a picture. She was out of the house in a flash..."},
+    {"dad", "My wife called to tell me she saw a bear on the way to work. I asked her how she knew it was on its way to work.", "She hung up on me."}
 };
