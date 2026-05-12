@@ -568,5 +568,9 @@ const vector<Joke> jokes = {
     {"tech", "A programmer’s wife told him, \"While you’re at the store, get a loaf of bread. If they have eggs, get a dozen.\"", "He came home with 12 loaves of bread."},
     {"tech", "A programmer was asked, “What’s your biggest strength? He said, \"I’m very good at avoiding unnecessary duplication.\"", "Then he said, \"I’m very good at avoiding unnecessary duplication.\""},
     {"work", "I applied for a job hanging mirrors.", "It's something I can see myself doing."},
-    {"dad", "I tried to organize a hide and seek tournament...", "But good players are hard to find."}
+    {"dad", "I tried to organize a hide and seek tournament...", "But good players are hard to find."},
+    {"dad", "How do you explain why the Hulk never loses his pants when he transforms?", "The experiment altered his jeans."},
+    {"pun", "Did you hear about the kid who started a business tying shoelaces on the playground?", "It was a knot-for-profit."},
+    {"dad", "How do they tie things down on the space station?", "They use astro knots."},
+    {"aging", "A friend of mine is a knot theorist and I told him a joke that wasn’t about knot theory.", "He said he’s too old for not-knot jokes."}
 };
