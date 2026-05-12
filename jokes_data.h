@@ -566,7 +566,7 @@ const vector<Joke> jokes = {
     {"dad", "A friend told me he doesn't understand cloning.", "I said, \"That makes two of us.\""},
     {"dad", "My friend said he didn't understand archaeology.", "I said, \"You've got to dig a little deeper.\""},
     {"tech", "A programmer's wife told him, \"While you're at the store, get a loaf of bread. If they have eggs, get a dozen.\"", "He came home with 12 loaves of bread."},
-    {"tech", "A programmer was asked, "What's your biggest strength? He said, \"I'm very good at avoiding unnecessary duplication.\"", "Then he said, \"I'm very good at avoiding unnecessary duplication.\""},
+    {"tech", "A programmer was asked, \"What's your biggest strength? He said, \"I'm very good at avoiding unnecessary duplication.\"", "Then he said, \"I'm very good at avoiding unnecessary duplication.\""},
     {"work", "I applied for a job hanging mirrors.", "It's something I can see myself doing."},
     {"dad", "I tried to organize a hide and seek tournament...", "But good players are hard to find."},
     {"dad", "How do you explain why the Hulk never loses his pants when he transforms?", "The experiment altered his jeans."},
