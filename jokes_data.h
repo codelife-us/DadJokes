@@ -572,5 +572,6 @@ const vector<Joke> jokes = {
     {"dad", "How do you explain why the Hulk never loses his pants when he transforms?", "The experiment altered his jeans."},
     {"pun", "Did you hear about the kid who started a business tying shoelaces on the playground?", "It was a knot-for-profit."},
     {"dad", "How do they tie things down on the space station?", "They use astro knots."},
-    {"aging", "A friend of mine is a knot theorist and I told him a joke that wasn't about knot theory.", "He said he's too old for not-knot jokes."}
+    {"aging", "A friend of mine is a knot theorist and I told him a joke that wasn't about knot theory.", "He said he's too old for not-knot jokes."},
+    {"dad", "A man walks into a hardware store and picks up a can of fly spray. He asks, \"Is this good for wasps?\"", "The clerk said, \"No, it kills them!\""}
 };
