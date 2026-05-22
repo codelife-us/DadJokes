@@ -573,5 +573,6 @@ const vector<Joke> jokes = {
     {"pun", "Did you hear about the kid who started a business tying shoelaces on the playground?", "It was a knot-for-profit."},
     {"dad", "How do they tie things down on the space station?", "They use astro knots."},
     {"aging", "A friend of mine is a knot theorist and I told him a joke that wasn't about knot theory.", "He said he's too old for not-knot jokes."},
-    {"dad", "A man walks into a hardware store and picks up a can of fly spray. He asks, \"Is this good for wasps?\"", "The clerk said, \"No, it kills them!\""}
+    {"dad", "A man walks into a hardware store and picks up a can of fly spray. He asks, \"Is this good for wasps?\"", "The clerk said, \"No, it kills them!\""},
+    {"work", "Out of all the inventions in the last 100 years...", "The dry erase board might be the most remarkable one."}
 };
