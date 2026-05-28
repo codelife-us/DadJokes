@@ -612,5 +612,6 @@ const vector<Joke> jokes = {
     {"dad", "Have you ever tried to catch fog?", "I tried but mist."},
     {"dad", "What does a lawyer wear to court?", "A lawsuit."},
     {"dad", "How much does it cost for Santa to park his sleigh?", "Nothing, it's on the house."},
-    {"dad", "What did Tennessee?", "The same thing as Arkansas."}
+    {"dad", "What did Tennessee?", "The same thing as Arkansas."},
+    {"dad", "I tripped and hit my head on a snare drum.", "And now I think I have a percussion."}
 };
