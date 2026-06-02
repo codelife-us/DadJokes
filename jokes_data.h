@@ -613,5 +613,9 @@ const vector<Joke> jokes = {
     {"dad", "What does a lawyer wear to court?", "A lawsuit."},
     {"dad", "How much does it cost for Santa to park his sleigh?", "Nothing, it's on the house."},
     {"dad", "What did Tennessee?", "The same thing as Arkansas."},
-    {"dad", "I tripped and hit my head on a snare drum.", "Now, I think I have a percussion."}
+    {"dad", "I tripped and hit my head on a snare drum.", "Now, I think I have a percussion."},
+    {"dad", "I got cast in a film about a bakery. It’s not a huge part...", "Just a small roll"},
+    {"dad", "I gave my friend an apple, but he said he preferred pears...", "So I gave him another apple."},
+    {"dad", "Why did the sea monster eat five ships carrying potatoes?", "No one can eat just one poatato ship."},
+    {"dad", "I was walking in the jungle and saw a lizard on his hind legs telling jokes. I said to the local tribesman, \"That lizards really funny.\"", "The tribesman replied, \"That's not a lizard. He's a stand up chameleon.\""}
 };
